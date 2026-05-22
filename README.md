@@ -131,15 +131,6 @@ ecommerce-sales-analytics/
 
 ---
 
-## ▶️ How to Run
-
-1. Open **MySQL Workbench**
-2. Click **File** → **Open SQL Script**
-3. Select `E-Commerce_Sales_Analytics.sql`
-4. Press **Ctrl + Shift + Enter** to run the entire file
-5. The database, tables, data and all queries will execute automatically
-
----
 
 ## 🛠️ Tools & Technologies
 
